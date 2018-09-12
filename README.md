@@ -1,1 +1,1 @@
-Copyright of ECOWE
+Copyright of ECOWEGROUP

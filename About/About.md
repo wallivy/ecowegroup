@@ -1,4 +1,4 @@
-# ECOWE
+# ECOWEGROUP
 Green think, Better life!
 ## [About](https://github.com/wallivy/ecowe/blob/master/About/About.md)
 - [Profile](https://github.com/wallivy/ecowe/blob/master/About/Profile.md)
@@ -10,6 +10,3 @@ Green think, Better life!
 
 ## [Library](https://github.com/wallivy/ecowe/blob/master/Library/Library.md)
 -
-
-
-## [Activity](https://github.com/wallivy/ecowe/blob/master/Activity/Activity.md)
