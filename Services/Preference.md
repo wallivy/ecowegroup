@@ -1,5 +1,5 @@
 # Preference
- At ECOWE GROUP Limited we improve us and the surrounding people with the preferences as following:
+ At ECOWE GROUP Limited we improve the surrounding people wuth the preferences concerned to train, assit for a higher level and practical solution, even we can provide the integrated service assigned with a series of consultancy, information or development business.
 ## 1.	Consultancy
   - Project Management
 
@@ -24,3 +24,6 @@
 
 
 ## 3. Development
+---
+
+# services
